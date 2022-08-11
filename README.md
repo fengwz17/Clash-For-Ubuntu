@@ -81,4 +81,4 @@ Others decides unpopular websites that are not included in the Global rules, and
 **Happy using!**
 
 ## Backup
-./config/clash is copied from my own device, the clash.yaml file comes from the [subscription](https://console.bywa.art/clientarea.php?action=productdetails&id=97175)
+clash/ is copied from my own device home/.config/, the clash.yaml file is set by using the [subscription](https://console.bywa.art/clientarea.php?action=productdetails&id=97175).
