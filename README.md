@@ -57,7 +57,7 @@ After the configuration is complete, re-execute the command to start the flash t
 
 Open the URL below to access the management page
 
-[http://clash.razord.top/#/proxies](http://clash.razord.top/#/proxies)
+[https://clash.razord.top/#/proxies](http://clash.razord.top/#/proxies)
 
 * Set up the virtual machine network, configure the proxy
 
