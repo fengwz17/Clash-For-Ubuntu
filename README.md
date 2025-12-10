@@ -9,9 +9,11 @@ Clash For Linux is a Linux agent developed based on Electron and Clash, which al
 
 Download and install Clash for Linux
 
-[Network disk download](https://wwi.lanzouy.com/b07xybeid)
+~~[Network disk download](https://wwi.lanzouy.com/b07xybeid)~~
 
-[github download](https://github.com/Dreamacro/clash/releases/download/v1.2.0/clash-linux-amd64-v1.2.0.gz)
+~~[github download](https://github.com/Dreamacro/clash/releases/download/v1.2.0/clash-linux-amd64-v1.2.0.gz)~~
+
+[mirror address](https://drive.cn-v1-oss.eu.org/d/4b68087528ca4936b189/)
 
 ## Configure
 
